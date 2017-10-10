@@ -7,7 +7,15 @@ UB port project folder
 
 1. start with a brand new Nexus 5
 2. sudo apt install android-tools-fastboot
-3. 
+3. backup
+4. magic-device-tool
+5. [8]  LG Nexus 5 - hammerhead
+6. [1]  Install Ubuntu
+7. choose legacy (it was the only one available).
+4. it rebooted
+4. Then displayed the UBPorts screen for some minutes
+4. then rebooted again
+4. now showing the google logo
 
 
 
