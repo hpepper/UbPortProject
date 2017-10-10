@@ -34,3 +34,8 @@ Detecting device
 ./devices/nexus5/android/bootloader.sh: line 88: `else'
 ```
 /snap/magic-device-tool/289/devices/nexus5/android/bootloader.sh
+
+#### adb: unable to open file backup.ab
+Try installing:
+
+sudo apt install android-tools-adb
