@@ -39,3 +39,8 @@ Detecting device
 Try installing:
 
 sudo apt install android-tools-adb
+
+didn't work
+
+But this seemed to work:
+  adb backup -all
