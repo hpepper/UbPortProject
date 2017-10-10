@@ -15,7 +15,14 @@ UB port project folder
 
 ## Troubleshooting ubport installation
 
+#### lsusb doesn't show the phone
+Wrong cable.
+
 ### magic-device-tool
+
+This problem isn't seen when the phone is detectable
+
+'fastboot devices' repoert a line
 
 tried: I'm guessing this is due to a missing 'fastboot' command
   Nope, didn't fix it.
